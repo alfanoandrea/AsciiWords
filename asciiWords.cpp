@@ -70,6 +70,7 @@ int getCarattere(char carattere) {
 	return 0;
 }
 
+
 void selColor() {
 	int sel = rand() % 5 + 1;
 	if (sel == 1)
